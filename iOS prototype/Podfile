@@ -1,0 +1,6 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+pod 'IQKeyboardManager'
+pod "ReactiveCocoa", "3.0-RC.1"
+
+use_frameworks!

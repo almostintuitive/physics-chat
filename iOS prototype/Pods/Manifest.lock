@@ -1,0 +1,32 @@
+PODS:
+  - Box (1.2.2)
+  - IQKeyboardManager (3.2.4)
+  - ReactiveCocoa (3.0-RC.1):
+    - Box (~> 1.2.0)
+    - ReactiveCocoa/UI (= 3.0-RC.1)
+    - Result (~> 0.4.1)
+  - ReactiveCocoa/Core (3.0-RC.1):
+    - Box (~> 1.2.0)
+    - ReactiveCocoa/no-arc
+    - Result (~> 0.4.1)
+  - ReactiveCocoa/no-arc (3.0-RC.1):
+    - Box (~> 1.2.0)
+    - Result (~> 0.4.1)
+  - ReactiveCocoa/UI (3.0-RC.1):
+    - Box (~> 1.2.0)
+    - ReactiveCocoa/Core
+    - Result (~> 0.4.1)
+  - Result (0.4.4):
+    - Box (~> 1.2)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - ReactiveCocoa (= 3.0-RC.1)
+
+SPEC CHECKSUMS:
+  Box: a92e8aa4c099e6bc0733829665caf9e668ef53b8
+  IQKeyboardManager: 555b1231fefafb21b19278d7cca72986a27b748b
+  ReactiveCocoa: c85fe01be4e047dc1d9fba3e1e0b7070846d3296
+  Result: b44f6bc8762bbffaf2c5df58f2c7d12c3496ced8
+
+COCOAPODS: 0.37.2
